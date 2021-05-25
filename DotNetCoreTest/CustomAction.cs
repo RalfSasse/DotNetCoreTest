@@ -14,7 +14,7 @@ using System.Diagnostics;       // für Objekte der Klassen Process und ProcessS
 using System.Linq;
 using System.Text.RegularExpressions;
 
-namespace DotNetCoreTestTest
+namespace DotNetCoreTest
 {
     public class CustomActions
     {
